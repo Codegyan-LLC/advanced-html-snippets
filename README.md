@@ -37,7 +37,7 @@ Once installed, you can use the following snippets by typing their prefix and hi
 - link: Adds an HTML <link> tag for including an external stylesheet.
 - div: Inserts a <div> tag.
 - a: Inserts an <a> tag for links.
-- img: Adds an <img> tag for images.
+- img: Adds an <img> tag for image.
 - button: Inserts a <button> tag.
 
 ## How to Contribute
