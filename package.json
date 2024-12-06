@@ -1,0 +1,39 @@
+{
+  "name": "advanced-html-snippets",
+  "displayName": "Advanced HTML Snippets",
+  "description": "A advanced HTML snippets for fast coding.",
+  "version": "0.0.1",
+  "publisher": "codegyan",
+  "author": "Prathmesh Yelne",
+  "engines": {
+    "vscode": "^1.95.0"
+  },
+  "categories": [
+    "Snippets"
+  ],
+  "icon": "images/icon.png",
+  "license": "MIT",
+  "contributes": {
+    "snippets": [
+      {
+        "language": "HTML",
+        "path": "./snippets/html.json"
+      }
+    ]
+  },
+  "keywords": [
+    "html",
+    "snippets",
+    "vs extension",
+    "html5",
+    "coding"
+  ],
+  "bugs": {
+			"url": "https://github.com/Codegyan-LLC/advanced-html-snippets/issues"
+	},
+  "repository": {
+			"type": "git",
+			"url": "https://github.com/Codegyan-LLC/advanced-html-snippets.git"
+	},
+	"homepage": "https://github.com/Codegyan-LLC/advanced-html-snippets/blob/master/README.md"
+}
