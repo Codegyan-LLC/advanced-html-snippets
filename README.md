@@ -48,3 +48,30 @@ Once installed, you can use the following snippets by typing their prefix and hi
 /blob/main/images/code.png" width="600" alt="basic html snippets">
 
 
+## How to Contribute
+We welcome contributions to this extension! If you would like to add more snippets or improve the extension, feel free to fork the repository, make changes, and submit a pull request.
+
+## Steps to Contribute:
+1. Fork the repository.
+2. Clone your fork:
+```bash
+git clone https://github.com/your-repo/html-snippets.git
+```
+3.Create a new branch:
+```bash
+git checkout -b feature-name
+```
+4. Make your changes (e.g., add new snippets).
+5. Commit your changes:
+```bash
+git commit -m "Added new snippets"
+```
+6. Push to your fork:
+```bash
+git push origin feature-name
+```
+Open a pull request on the original repository.
+
+## License
+This project is licensed under the **[MIT license](https://opensource.org/licenses/MIT)**. See the LICENSE file for details.
+
