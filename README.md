@@ -34,11 +34,17 @@ Once installed, you can use the following snippets by typing their prefix and hi
 
 - !html5: Inserts a basic HTML5 boilerplate structure.
 - !!html5: Inserts a advanced HTML5 boilerplate structure.
-- link: Adds an HTML <link> tag for including an external stylesheet.
-- div: Inserts a <div> tag.
-- a: Inserts an <a> tag for links.
-- img: Adds an <img> tag for image.
-- button: Inserts a <button> tag.
+- link: Adds an HTML &lt;link&gt; tag for including an external stylesheet.
+- div: Inserts a  &lt;div&gt; tag.
+- a: Inserts an  &lt;a&gt; tag for links.
+- img: Adds an  &lt;img&gt; tag for images.
+- button: Inserts a  &lt;button&gt; tag.
+
+### Example:
+1. In an HTML file, type !html5 and press Tab.
+2. The following code will be inserted:
+
+![Code](images/code.png)
 
 ## How to Contribute
 We welcome contributions to this extension! If you would like to add more snippets or improve the extension, feel free to fork the repository, make changes, and submit a pull request.
