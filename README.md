@@ -40,14 +40,6 @@ Once installed, you can use the following snippets by typing their prefix and hi
 - img: Adds an <img> tag for images.
 - button: Inserts a <button> tag.
 
-### Example:
-1. In an HTML file, type !html5 and press Tab.
-2. The following code will be inserted:
-
-<img src="https://github.com/Codegyan-LLC/advanced-html-snippets
-/blob/main/images/code.png" width="600" alt="basic html snippets">
-
-
 ## How to Contribute
 We welcome contributions to this extension! If you would like to add more snippets or improve the extension, feel free to fork the repository, make changes, and submit a pull request.
 
@@ -55,7 +47,7 @@ We welcome contributions to this extension! If you would like to add more snippe
 1. Fork the repository.
 2. Clone your fork:
 ```bash
-git clone https://github.com/your-repo/html-snippets.git
+git clone https://github.com/Codegyan-LLC/advanced-html-snippets.git
 ```
 3.Create a new branch:
 ```bash
