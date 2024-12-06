@@ -21,7 +21,7 @@ A collection of handy HTML snippets designed to speed up your web development wo
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-repo/html-snippets.git
+   git clone https://github.com/Codegyan-LLC/advanced-html-snippets.git
    ```
 
 2. Open the project folder in Visual Studio Code.
