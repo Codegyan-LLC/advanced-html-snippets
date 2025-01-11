@@ -2,7 +2,7 @@
   "name": "advanced-html-snippets",
   "displayName": "Advanced HTML Snippets",
   "description": "A advanced HTML snippets for fast coding.",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "publisher": "codegyan",
   "author": "Prathmesh Yelne",
   "engines": {
@@ -26,7 +26,10 @@
     "snippets",
     "vs extension",
     "html5",
-    "coding"
+    "coding",
+    "codegyan",
+    "prathmeshyelne",
+    "htmlSnippets"
   ],
   "bugs": {
 			"url": "https://github.com/Codegyan-LLC/advanced-html-snippets/issues"
