@@ -15,3 +15,8 @@ Fix some Bug
 ## v0.0.3 (2024-12-06)
 
 Fix major some Bug
+
+
+## v0.0.4 (2024-01-11)
+
+Fix major issues
